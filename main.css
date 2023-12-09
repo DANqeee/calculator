@@ -10,10 +10,12 @@
 }
 .mainBox{
     display: table-column-group;
+
     background: rgba(0, 0, 0, 0.5);
-    width: 400px;
+    width: 400px;   
     height: 600px;
     border-radius: 10px;
+    border: 3px solid #000000;
 }
 .header{
     display: flex;
